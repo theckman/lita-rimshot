@@ -1,0 +1,6 @@
+FileName:
+  Exclude:
+    - Rakefile
+    - Gemfile
+    - lib/lita-rimshot.rb
+    - lita-rimshot.gemspec
