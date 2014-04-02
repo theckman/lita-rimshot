@@ -15,6 +15,11 @@ LICENSE
 the [MIT](http://opensource.org/licenses/MIT) license. The full license is
 provided in the `LICENSE` file.
 
+CONTRIBUTING
+------------
+See [CONTRIBUTION.md](https://github.com/theckman/lita-rimshot/blob/master/)
+for information on contributing back to this project.
+
 INSTALLATION
 ------------
 Add this line to your Lita bot's Gemfile:
