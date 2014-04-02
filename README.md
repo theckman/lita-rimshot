@@ -17,7 +17,7 @@ provided in the `LICENSE` file.
 
 CONTRIBUTING
 ------------
-See [CONTRIBUTION.md](https://github.com/theckman/lita-rimshot/blob/master/)
+See [CONTRIBUTION.md](https://github.com/theckman/lita-rimshot/blob/master/CONTRIBUTING.md)
 for information on contributing back to this project.
 
 INSTALLATION
